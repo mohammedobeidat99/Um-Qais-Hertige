@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "536062210625",
+    "project_id": "um-qais",
+    "storage_bucket": "um-qais.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536062210625:android:02d229130fb095a8d10cc0",
+        "android_client_info": {
+          "package_name": "com.example.um_qais"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKfMMcsug5nm-0eSlo0OQjaZoGNrWbmkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
